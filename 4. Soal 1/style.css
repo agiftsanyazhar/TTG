@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 750px;
+  padding: 16px;
+}
+
+.error {
+  color: #dc3545;
+  font-size: 14px;
+}
+
+.success {
+  color: #198754;
+  font-size: 14px;
+  margin-top: 15px;
+}
